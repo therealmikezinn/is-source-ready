@@ -1,0 +1,7 @@
+{
+  "name": "is-source-ready",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Zinn",
+  "license": "MIT"
+}
